@@ -1,0 +1,26 @@
+html {
+    text-align: center;
+    font-family: Verdana;
+    color: white;
+    background-color: black;
+}
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active{
+    font-size: 16px;
+    color: aquamarine;
+}
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+p {
+    font-size: 21px;
+    color: gray;
+}
+p#copyright {
+    text-align: right;
+}
